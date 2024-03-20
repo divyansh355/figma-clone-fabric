@@ -1,1 +1,1 @@
-#figma-clone
+#figma-clone-fabric.js
